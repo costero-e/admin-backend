@@ -1,0 +1,14 @@
+# docker-compose.yml
+
+version: "3.8"
+
+services:
+  server:
+    build:
+      context: .
+    container_name: admin-backend
+    command: [ "bash", "start.sh" ]
+    ports:
+      - 8003:8000
+    volumes:
+      - ./:/usr/src/app
