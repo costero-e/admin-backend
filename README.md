@@ -14,13 +14,13 @@
 </p>
 <p>
 	<a>
-		<p>Hola</p>
+		Hola
 	</a>
 	<a>
-		<p>Hola</p>
+		Hola
 	</a>
 	<a>
-		<p>Hola</p>
+		Hola
 	</a>
 </p>
 
