@@ -1,21 +1,10 @@
 # admin-backend
 
-
 <p>
-	<a href="https://picsum.photos/400/400" target="_blank">
-    <b>Some Links:</b>
-		<img src="https://picsum.photos/100/100" width="30%" height="auto">
-	</a>
-	<a href="https://picsum.photos/400/400" target="_blank">
-    <b>Some Links:</b>
-		<img src="https://picsum.photos/100/100" width="30%" height="auto">
-	</a>
-	<a href="https://picsum.photos/400/400" target="_blank">
-    <b>Some Links:</b>
-		<img src="https://picsum.photos/100/100" width="30%" height="auto">
-	</a>
+		<img src="https://picsum.photos/100/100" width="30%" height="auto"></img>
+		<img src="https://picsum.photos/100/100" width="30%" height="auto"></img>
+		<img src="https://picsum.photos/100/100" width="30%" height="auto"></img>
 </p>
-
 
 ### Bonus
 
