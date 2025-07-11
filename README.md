@@ -1,16 +1,17 @@
 # admin-backend
 
 
-<details>
-    <summary>
-        <a href="https://whatever.com"><code>Library Name</code></a>
-        <span> • </span>
-        <strong><code>0/30</code></strong>
-        <span> • </span>
-        <img align="center" alt="Easy" src="https://img.shields.io/badge/Easy-32CD32">
-    </summary>
-    Example content
-</details>
+<p>
+	<a href="https://picsum.photos/400/400" target="_blank">
+		<img src="https://picsum.photos/100/100" width="30%" height="auto">
+	</a>
+	<a href="https://picsum.photos/400/400" target="_blank">
+		<img src="https://picsum.photos/100/100" width="30%" height="auto">
+	</a>
+	<a href="https://picsum.photos/400/400" target="_blank">
+		<img src="https://picsum.photos/100/100" width="30%" height="auto">
+	</a>
+</p>
 
 <img align="right" src="https://picsum.photos/150/100" alt="image" />
 <img src="https://picsum.photos/150/100" alt="image" />
