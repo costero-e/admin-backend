@@ -5,7 +5,7 @@
 
 
  <p>
-    <img src="https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=1" hspace="10" ><p>Hola</p></img>
+    <img src="https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=1" hspace="1" ><p>Hola</p></img>
     <img src="https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=2" hspace="10" >
 </p>
  <p>
