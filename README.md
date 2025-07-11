@@ -1,31 +1,10 @@
 # admin-backend
 
-
-
-
-
- <p>
-    <p>
-        <img src="https://picsum.photos/500/100" >
-        <p>
-        <img src="https://picsum.photos/500/100" >
-        <p>
-        <img src="https://picsum.photos/500/100" >
-    </p>
-</p>
- <p>
-    <p>
-        <img src="https://picsum.photos/500/100" >
-        <p>
-        <img src="https://picsum.photos/500/100" >
-        <p>
-        <img src="https://picsum.photos/500/100" >
-    </p>
-</p>
-
-
-
-
+<img align="right" src="https://picsum.photos/150/100" alt="image" />
+<img src="https://picsum.photos/150/100" alt="image" />
+<img src="https://picsum.photos/150/100" alt="image" />
+<img src="https://picsum.photos/150/100" alt="image" />
+<img src="https://picsum.photos/150/100" alt="image" />
 
 
 ### Bonus
