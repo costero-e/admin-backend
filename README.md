@@ -13,14 +13,14 @@
 	</a>
 </p>
 <p>
-	<a href="https://picsum.photos/400/400" target="_blank">
-		<img src="https://picsum.photos/100/100" width="30%" height="auto">
+	<a>
+		<p>Hola</p>
 	</a>
-	<a href="https://picsum.photos/400/400" target="_blank">
-		<img src="https://picsum.photos/100/100" width="30%" height="auto">
+	<a>
+		<p>Hola</p>
 	</a>
-	<a href="https://picsum.photos/400/400" target="_blank">
-		<img src="https://picsum.photos/100/100" width="30%" height="auto">
+	<a>
+		<p>Hola</p>
 	</a>
 </p>
 
