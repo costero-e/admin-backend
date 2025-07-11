@@ -5,12 +5,12 @@
 
 
  <p>
-    <img src="https://picsum.photos/100/100" hspace="10" >
-    <img src="https://picsum.photos/100/100" hspace="10" >
+    <img src="https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=1" hspace="10" ><p>Hola</p></img>
+    <img src="https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=2" hspace="10" >
 </p>
  <p>
-    <img src="https://picsum.photos/100/100" hspace="10" >
-    <img src="https://picsum.photos/100/100" hspace="10" >
+    <img src="https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=3" hspace="10" >
+    <img src="https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=4" hspace="10" >
 </p>
 
 
