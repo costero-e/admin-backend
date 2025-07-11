@@ -5,7 +5,7 @@
 | ![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=1)  | ![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=2)  |
 | ![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=3) | ![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=4)  |
 
-<table>
+<table style="border: 0px">
   <tr>
     <td>First Screen Page</td>
      <td>Holiday Mention</td>
