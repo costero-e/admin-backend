@@ -13,13 +13,13 @@
 	</a>
 </p>
 <p>
-	<a>
+	<a width="30%">
 		Hola
 	</a>
-	<a>
+	<a width="30%">
 		Hola
 	</a>
-	<a>
+	<a width="30%">
 		Hola
 	</a>
 </p>
