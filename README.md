@@ -5,13 +5,22 @@
 
 
  <p>
-    <img src="https://picsum.photos/100/100" hspace="10" >
-    <p>Hola</p>
-    <img src="https://picsum.photos/100/100" hspace="10" >
+    <p>
+        <img src="https://picsum.photos/500/100" >
+        <p>
+        <img src="https://picsum.photos/500/100" >
+        <p>
+        <img src="https://picsum.photos/500/100" >
+    </p>
 </p>
  <p>
-    <img src="https://picsum.photos/100/100" hspace="10" >
-    <img src="https://picsum.photos/100/100" hspace="10" >
+    <p>
+        <img src="https://picsum.photos/500/100" >
+        <p>
+        <img src="https://picsum.photos/500/100" >
+        <p>
+        <img src="https://picsum.photos/500/100" >
+    </p>
 </p>
 
 
