@@ -4,22 +4,25 @@
 <p>
 	<a href="https://picsum.photos/400/400" target="_blank">
 		<img src="https://picsum.photos/100/100" width="30%" height="auto">
+        Hola
 	</a>
 	<a href="https://picsum.photos/400/400" target="_blank">
 		<img src="https://picsum.photos/100/100" width="30%" height="auto">
+        Hola
 	</a>
 	<a href="https://picsum.photos/400/400" target="_blank">
 		<img src="https://picsum.photos/100/100" width="30%" height="auto">
+        Hola
 	</a>
 </p>
 <p>
-	<a width="30%">
+	<a>
 		Hola
 	</a>
-	<a width="30%">
+	<a>
 		Hola
 	</a>
-	<a width="30%">
+	<a>
 		Hola
 	</a>
 </p>
