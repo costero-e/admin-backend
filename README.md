@@ -3,27 +3,16 @@
 
 <p>
 	<a href="https://picsum.photos/400/400" target="_blank">
+    <b>Some Links:</b>
 		<img src="https://picsum.photos/100/100" width="30%" height="auto">
-        Hola
 	</a>
 	<a href="https://picsum.photos/400/400" target="_blank">
+    <b>Some Links:</b>
 		<img src="https://picsum.photos/100/100" width="30%" height="auto">
-        Hola
 	</a>
 	<a href="https://picsum.photos/400/400" target="_blank">
+    <b>Some Links:</b>
 		<img src="https://picsum.photos/100/100" width="30%" height="auto">
-        Hola
-	</a>
-</p>
-<p>
-	<a>
-		Hola
-	</a>
-	<a>
-		Hola
-	</a>
-	<a>
-		Hola
 	</a>
 </p>
 
